@@ -1,0 +1,25 @@
+
+/* Custom your banner */
+.lgpd {
+    position: fixed;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+    padding: 20px;
+    background-color:green;
+    color: black;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.lgpd a {
+    color: white;
+}
+.lgpd button {
+    background-color: #000;
+    border: 0px;
+    cursor: pointer;
+    padding: 10px 30px;
+    color: #fff;
+}
