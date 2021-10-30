@@ -3,8 +3,9 @@
 let lgpdHtml = `
     <div class="lgpd">
         <div class="lgpd--left">
-                Nós utilozamos cookie para melhor sua experiencia do usuário.<br>
-                Para conferir detalhamente todos os cookies utilizados, leia nossa <a herf="#">politica de privacidade</a>.
+              <p>  Nós utilozamos cookie para melhor sua experiencia do usuário.<br>
+                Para conferir detalhamente todos os cookies utilizados, leia nossa <a herf="#">politica de privacidade.</a>
+              </p>  
         </div>
         <div class="lgpd--right">
                 <button> OK! CONCORDAR. </button>

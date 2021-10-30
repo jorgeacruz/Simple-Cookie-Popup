@@ -7,15 +7,19 @@
     bottom: 20px;
     padding: 20px;
     background-color:green;
-    color: black;
+    color:#fff;
     font-size: 15px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 
 }
-.lgpd a {
-    color: white;
+.lgdp--right {
+    align-items: center;
+    justify-content: center;
 }
+.lgpd p { text-align: left; }
+.lgpd a { color: white; }
+
 .lgpd button {
     background-color: #000;
     border: 0px;
